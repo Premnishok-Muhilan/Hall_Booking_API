@@ -1,0 +1,22 @@
+{
+  "name": "hall_booking_api",
+  "version": "1.0.0",
+  "description": "Hall booking api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "api"
+  ],
+  "author": "Prem",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.4"
+  }
+}
